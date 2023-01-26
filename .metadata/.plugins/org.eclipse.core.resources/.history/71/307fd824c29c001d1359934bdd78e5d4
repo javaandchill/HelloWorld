@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class NegNumbers {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(Systemin);
+        int num1, num2;
+        System.out.print("Please enter a number");
+        num1 = scanner.nextInt();
+        
+    }    
+}

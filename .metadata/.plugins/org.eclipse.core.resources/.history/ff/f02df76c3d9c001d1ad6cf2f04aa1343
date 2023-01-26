@@ -1,0 +1,14 @@
+package introtojava;
+import java.util.Scanner;
+
+public class NegNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(Systemin);
+		
+		int num1, num2;
+		System.out.print();
+	}
+
+}

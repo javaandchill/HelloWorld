@@ -1,0 +1,16 @@
+package introtojava;
+
+public class LookingFromBackToFront {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [] theArray = {1, 2, 3, 4, 5};
+		for (int i = theArray.length; i >= 0; i--) {
+			theArray[i] = theArray[i] * 2;
+			
+			
+			System.out.println(theArray[i]);
+		}
+	}
+
+}

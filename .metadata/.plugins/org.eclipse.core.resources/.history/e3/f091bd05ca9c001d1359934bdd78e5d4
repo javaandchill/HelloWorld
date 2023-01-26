@@ -1,0 +1,17 @@
+package introtojava;
+import java.util.Scanner;
+
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		
+		int num1 = scanner.nextLine();
+		int num2 = scanner.nextLine();
+		int sum = num1 + num2;
+		
+		System.out.println(sum);
+	}
+
+}

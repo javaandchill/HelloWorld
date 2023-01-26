@@ -1,0 +1,14 @@
+package introtojava;
+import java.util.Scanner;
+
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		// TODO Auto-generated method stub
+		String userName;
+		System.out.print("please provide a number");
+		
+	}
+
+}

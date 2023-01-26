@@ -1,0 +1,18 @@
+package introtojava;
+
+public class ArithmeticOperations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 30;
+		int y = 27;
+		
+		System.out.print("Hello, my name is Jay Mckenzie, I am ");
+		System.out.print(x);
+		System.out.print(" years old.");
+		System.out.print("My wife's name is Angel Zhou-Mckenzie, She is ");
+		System.out.print(y);
+		System.out.print(" years old");
+	}
+
+}

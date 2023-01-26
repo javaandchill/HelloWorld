@@ -1,0 +1,22 @@
+package introtojava;
+
+import java.util.Scanner;
+
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		
+		int num1 = scanner.nextInt();
+		int num2 = scanner.nextInt();
+		int num3 = scanner.nextInt();
+		
+		System.out.println("Please enter a number");
+		
+		if (num1 <=0);
+		
+		
+	}
+
+}

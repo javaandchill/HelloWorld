@@ -1,0 +1,16 @@
+package introtojava;
+import java.util.Scanner;
+
+public class NegNumbers {
+
+    public static void main(String[] args) {
+    	
+    	Scanner scanner = new Scanner(System.in);
+    	
+    	int num1 = scanner.nextInt();
+    	
+    	System.out.println("please provide a number");
+        
+        
+    }    
+}
